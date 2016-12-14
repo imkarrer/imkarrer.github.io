@@ -3,7 +3,7 @@ published: true
 ---
 ---
 layout: post
-title: Inital Goals
+title: You're up and running!
 ---
 
 ## Initial Goals
