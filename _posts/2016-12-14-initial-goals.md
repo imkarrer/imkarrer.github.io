@@ -19,6 +19,7 @@ published: true
     
 # Reading
 I found a writeup by [Rogelio Nicolas Mengual](https://www.toptal.com/data-science/algorithmic-trading-a-practical-tale-for-engineers) which details his expereince getting his hands wet with automated Forex trading.  I have read the post, but I need to read the links he referenced more thoroughly.
+
 ## Links
 - [babypips](http://www.babypips.com/school)
 - [The Way of the Turtle](https://www.amazon.com/Way-Turtle-Methods-Ordinary-Legendary/dp/007148664X)
@@ -26,6 +27,7 @@ I found a writeup by [Rogelio Nicolas Mengual](https://www.toptal.com/data-scien
 - [Expert Advisor Programming Automated MetaTrader](https://www.amazon.com/Expert-Advisor-Programming-Automated-MetaTrader/dp/0982645902)
 - [Trading Systems Development Portfolio Optimisation](https://www.amazon.com/Trading-Systems-Development-Portfolio-Optimisation/dp/1905641796)
 - [A Step-By-Step Implementation of a Multi-Agent Currency Trading System](http://www.igi-global.com/chapter/step-step-implementation-multi-agent/49365)
+
 ## Plan
 Attempt to obtain and read all of the given material.  Make a blog post about each and how the source relates to the end goal.  To create a custom trading suite.
     
