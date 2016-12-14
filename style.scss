@@ -283,6 +283,13 @@ footer {
   text-align: center;
 }
 
+.iframe-container {
+    height: 100%;
+    text-align: center;
+    padding: 1em;
+    box-sizing: border-box;
+}
+
 .iframe-wrapper {
     position: relative;
     height: 0;
