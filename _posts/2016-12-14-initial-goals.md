@@ -8,4 +8,4 @@ title: You're up and running!
 
 ## Initial Goals
 
-<iframe width="100%" height="100%" src="http://webrates.truefx.com/rates/webWidget/trfxhp.jsp" allowfullscreen></iframe>
+<iframe src="http://webrates.truefx.com/rates/webWidget/trfxhp.jsp" frameborder="0" allowfullscreen></iframe>
